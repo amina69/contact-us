@@ -1,0 +1,155 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  background: rgb(20, 1, 1);
+  margin: 25px;
+  height: auto;
+}
+
+#main {
+  height: 600px;
+  width: 800px;
+  background-color: #e5e5e5;
+  margin: 0 auto;
+}
+
+.container {
+  background-color: white;
+  width: 724px;
+  height: 407px;
+  margin: auto;
+  position: relative;
+  top: 90px;
+}
+
+.logo-img {
+  margin-left: 13px;
+  margin-top: 13px;
+}
+
+.menu {
+  background-color: #ffdc23;
+  width: 41px;
+  height: 41px;
+  margin: auto;
+  text-align: center;
+  position: absolute;
+  top: 180px;
+  right: 684px;
+}
+
+.menu-img {
+  margin-top: 3px;
+}
+
+.yellow-container {
+  background-color: #ffdc23;
+  width: 127px;
+  height: 407px;
+  margin: auto;
+  position: absolute;
+  left: 597px;
+  top: 0;
+}
+
+.sub-yellow-container {
+  background-color: #ffdc23;
+  width: 26px;
+  height: 26px;
+  margin: auto;
+  position: absolute;
+  top: 40px;
+  right: 275px;
+}
+
+.black-container {
+  background-color: #202020;
+  width: 248px;
+  /* height: 285px; */
+  margin: auto;
+  position: relative;
+  top: 48px;
+  right: 161px;
+  padding: 20px;
+}
+
+.forms {
+  margin-left: 100px;
+  text-align: left;
+}
+
+.forms input {
+  padding: 10px;
+  width: 250px;
+  margin-bottom: 17px;
+  outline: none;
+  border: none;
+  border-bottom: #dddddd solid 1px;
+  color: #545454;
+  font-size: 10px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  width: 266px;
+  background-color: #202020;
+  color: white;
+  font-size: 10px;
+  outline: none;
+  border: none;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-weight: bolder;
+  position: absolute;
+  top: 25px;
+  left: 100px;
+}
+
+h6 {
+  color: #545454;
+  letter-spacing: 1px;
+  font-weight: 100;
+  margin-top: 40px;
+  margin-left: 100px;
+}
+
+.icons {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 5px;
+}
+
+.icons i {
+  margin-left: 20px;
+  background-color: #ffdc23;
+  font-size: 12px;
+}
+
+.image {
+  margin: 10px 0 30px;
+  /* padding: 5px; */
+}
+
+.image img {
+  width: 20px;
+}
+
+h2 {
+  color: white;
+  margin-left: 20px;
+}
+
+a i {
+  color: white;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.add {
+  text-decoration: none;
+  color: #d6d6d6;
+  font-size: 11px;
+  margin-left: 12px;
+}
